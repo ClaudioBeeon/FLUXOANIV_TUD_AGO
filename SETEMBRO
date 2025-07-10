@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🎉 Seu Presente de Aniversário te Espera! 🎉</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet" />
+  <style type="text/css">
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+      font-family: Arial, sans-serif;
+      background-color: #f6f6f6;
+    }
+
+    table {
+      border-spacing: 0;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      -ms-interpolation-mode: bicubic;
+      display: block;
+      line-height: 0;
+    }
+
+    .templateContainer {
+      max-width: 600px !important;
+      width: 600px !important;
+    }
+
+    @media only screen and (max-width: 620px) {
+      .templateContainer {
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      img {
+        width: 100% !important;
+        height: auto !important;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0; background-color: #f6f6f6;">
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color: #f6f6f6;">
+    <tr>
+      <td align="center" valign="top">
+        <table class="templateContainer" width="600" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color: #ffffff;">
+
+          <!-- Imagem de topo -->
+          <tr>
+            <td>
+              <img src="https://i.imgur.com/pJ6HFFf.png" alt="Feliz Aniversário! Temos um presente especial para você!" width="600" style="display: block" border="0" style="width: 100%; max-width: 600px;" />
+            </td>
+          </tr>
+
+          <!-- Cupom com fundo e texto DECORAGOSTO -->
+        <tr>
+  <td align="center" valign="middle" background="https://i.imgur.com/jUREeM7.png" bgcolor="#ffffff" width="600"
+    style="background-image: url('https://i.imgur.com/jUREeM7.png'); background-repeat: no-repeat; background-position: center; text-align: center;">
+    <!--[if gte mso 9]>
+    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;">
+      <v:fill type="frame" src="https://i.imgur.com/jUREeM7.png" color="#ffffff" />
+      <v:textbox inset="0,0,0,0">
+    <![endif]-->
+    <div style="font-family: 'Montserrat', Arial, sans-serif; font-size: 24px; font-weight: 600; color: #ffffff; padding: 14px 0;">
+      DECORAGOSTO
+    </div>
+    <!--[if gte mso 9]>
+      </v:textbox>
+    </v:rect>
+    <![endif]-->
+  </td>
+</tr>
+            <td>
+              <a href="https://tudinhoparasuacasa.com.br/" target="_blank" style="text-decoration: none;">
+                <img src="https://i.imgur.com/jHz9iDm.png" alt="Clique aqui e resgate seu presente agora!" width="600" style="width: 100%; max-width: 600px;" border="0" />
+              </a>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
